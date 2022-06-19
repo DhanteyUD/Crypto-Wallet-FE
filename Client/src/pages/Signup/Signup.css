@@ -51,28 +51,22 @@
 
 .success-msg {
   font-size: 19px;
-  color: #fff;
+  color: #01051a;
   font-weight: 600;
   position: absolute;
   text-align: center;
   align-self: center;
-  background-color: #01051a;
+  background-color: #fff;
   z-index: 10;
   width: 360px;
   height: 97.5%;
   padding: 400px 10px 0 10px;
 }
 
-.check-icon {
-  font-size: 100px;
+.confirm-signup-icon {
   position: absolute;
-  margin-top: -40%;
-  margin-left: 27%;
-  transition: 0.5s;
-  color: green;
-  background-color: #fff;
-  border-radius: 50%;
-  border: 1px solid green;
+  top: 250px;
+  left: 80px;
 }
 
 .cancel-icon {

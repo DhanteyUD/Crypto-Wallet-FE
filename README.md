@@ -1,2 +1,1 @@
-# Crypto-Wallet-FE
-Crypto wallet (Frontend) built with React.
+# Live-Project-SQ010-Banking-App-Frontend

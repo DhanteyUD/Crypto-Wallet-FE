@@ -72,10 +72,11 @@ const Signup = () => {
               className="cancel-icon"
               icon={solid('circle-xmark')}
             />
-            <FontAwesomeIcon
-              className="check-icon"
-              icon={solid('circle-check')}
-            />{' '}
+            <img
+              className="confirm-signup-icon"
+              src="/images/confirm.gif"
+              alt="confirmation"
+            />
             {successMessage}{' '}
           </div>
         ) : null}
